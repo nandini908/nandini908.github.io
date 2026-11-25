@@ -1,0 +1,14 @@
+Technology brand icons are from Devicon:
+https://github.com/devicons/devicon
+Files: java.svg, python.svg, javascript.svg, mysql.svg, html5.svg, css3.svg,
+git.svg, github.svg, vscode.svg
+License: MIT, included in DEVICON-LICENSE.txt.
+
+Generic skill icons are from Lucide:
+https://github.com/lucide-icons/lucide
+Files: boxes.svg, cable.svg, database.svg, server.svg, file-code.svg, network.svg,
+lightbulb.svg
+Licenses: ISC and MIT for icons derived from Feather, included in LUCIDE-LICENSE.txt.
+
+Brand names and marks remain the property of their respective owners. Their use
+identifies technologies and tools and does not imply endorsement.
